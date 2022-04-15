@@ -1,0 +1,64 @@
+body
+{
+  background-color: rgba(139, 0, 139, 0.934);
+}
+.heading
+{
+  font-family: 'Alumni Sans Inline One', cursive;
+  font-size: 60px;
+  letter-spacing: 5px;
+  color: black;
+  background-color: aqua;
+  border-radius: 30px;
+}
+
+.costyle
+{
+  font-family: 'Send Flowers', cursive;
+  font-size: 45px;
+  color:rgb(255, 255, 255);
+}
+.f23{
+  font-size: 50px;
+  border-right: 5px solid white;
+  margin-right: 5px;
+  
+}
+.wwr
+{
+  font-family: 'Cookie', cursive;
+  font-size: 60px;
+  font-weight: 200;
+  color: rgb(2, 227, 247);
+}
+.pre
+{
+  font-size: 40px;
+  font-family: 'Send Flowers', cursive;
+  background-color: white;
+  border: 6px solid greenyellow;
+  width: 200px;
+  height: 70px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.bt{
+  background-color: rgb(0, 255, 47);
+  width: 280px;
+  height: 70px;
+  color: black;
+  font-family: 'Send Flowers', cursive;
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+  border-radius: 80px;
+  border: 3px solid white;
+}
+
+#webcam, #result
+{
+  width: 350px;
+  height: 300px;
+  border: 3px dashed whitesmoke ;
+}
